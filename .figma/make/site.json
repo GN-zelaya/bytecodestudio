@@ -1,0 +1,10 @@
+{
+  "description": "Presenta los servicios de software y desarrollo web de Bytecode Studio para ayudar a empresas y pymes a impulsar su rendimiento, comunicación y ventas.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
